@@ -18,9 +18,5 @@ Here are some ideas to get you started:
   Hello, I'm Haritha! 👩‍💻
 </h1>
 
-<p align="center">
-  <img src="https://easy-peasy.ai/ai-image-generator/images/data-analyst-kazakh-girl-mastering-data-analysis" style="width:50%; height:auto; max-width: 1024px; max-height: 1024px;">
-</p>
-
 
 
