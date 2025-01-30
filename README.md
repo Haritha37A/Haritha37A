@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300px">
+  <img src="https://media.giphy.com/media/ZvLUt2V8T2Z8M/giphy.gif" width="300px">
 </p>
 
