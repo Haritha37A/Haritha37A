@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **Haritha37A/Haritha37A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 </h1>
 
 <p align="center">
-  <img src="https://ouch-cdn2.icons8.com/Qzv2ZTTGfGuYJpr_LV6Ff7ITFt6ppLsqxT2xD7V4hwg/rs:fit:1024:1024/extend:false/wm:1:re:0:0:0.35/wmid:generator/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9nZW5lcmF0/aW9ucy84NTcvZGNk/YjVmN2EtZDQzNy00/MzYzLWJlZDAtNWNl/OWU2YjhjOTNjLnBu/Zw.png" style="width:100%; height:auto;">
+  <img src="https://ouch-cdn2.icons8.com/Qzv2ZTTGfGuYJpr_LV6Ff7ITFt6ppLsqxT2xD7V4hwg/rs:fit:1024:1024/extend:false/wm:1:re:0:0:0.35/wmid:generator/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9nZW5lcmF0/aW9ucy84NTcvZGNk/YjVmN2EtZDQzNy00/MzYzLWJlZDAtNWNl/OWU2YjhjOTNjLnBu/Zw.png" style="width:100%; height:auto; max-width: 1024px; max-height: 1024px;">
 </p>
+
 
