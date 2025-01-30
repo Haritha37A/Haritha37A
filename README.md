@@ -14,12 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --> <h1 align="center">
-  <img src="https://files.oaiusercontent.com/file-AeNP6Hco2D2FStMKVJ4gFn?se=2025-01-30T07%3A50%3A49Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D8b911a1c-e798-4a0d-9b3b-14fe58a72d46.webp&sig=hFBH5Ku6v2x7c1ZomRquJZwMO%2BqmbTQAlRKdErnd/zU%3D" width="30px">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
   Hi, I'm Haritha! 👩‍💻
 </h1>
 
 <p align="center">
-  <img src="https://files.oaiusercontent.com/file-AeNP6Hco2D2FStMKVJ4gFn?se=2025-01-30T07%3A50%3A49Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D8b911a1c-e798-4a0d-9b3b-14fe58a72d46.webp&sig=hFBH5Ku6v2x7c1ZomRquJZwMO%2BqmbTQAlRKdErnd/zU%3D" width="300px">
+  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="300px">
+</p>
+<p align="center">
+  <img src="https://assets10.lottiefiles.com/packages/lf20_5ngs2ksb.json" width="300px">
 </p>
 
 
