@@ -15,15 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 --> <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
-  Hi, I'm Haritha! 👩‍💻
+  Hello, I'm Haritha! 👩‍💻
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="300px">
+  <iframe src="https://assets8.lottiefiles.com/packages/lf20_FnyyCH.json" 
+          width="300px" height="300px" frameborder="0" 
+          allow="autoplay; fullscreen" allowfullscreen>
+  </iframe>
 </p>
-<p align="center">
-  <img src="https://assets10.lottiefiles.com/packages/lf20_5ngs2ksb.json" width="300px">
-</p>
+
 
 
 
