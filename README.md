@@ -6,13 +6,27 @@
 
 <p>Passionate Data Analyst with a strong ability to transform raw data into meaningful insights. Skilled in data visualization, statistical analysis, and predictive modeling. Proficient in SQL, Python, R, and various BI tools. Experienced in handling large datasets, optimizing workflows, and delivering actionable business intelligence. Constantly exploring new ways to leverage data for impactful decision-making.</p>
 
+<div align="left" vertical-align="center">
+  
+  
+  - 🌱 I’m a **Node.js Backend Developer & Aspiring GCP Data Engineer** 
 
-<!--![](https://github.com/Haritha37A/https://github.com/Haritha37A/Haritha37A/blob/main/89dde2c0-dee9-11ef-bf18-0242ac140003.jpg)-->
+  - 👨‍💻 All of my projects are available at <a href='https://github.com/Haritha37A/' target="_blank" ><b>PortFolio</b></a>
 
-<div>
-  ![image](https://github.com/user-attachments/assets/cdc4d7c1-8d0c-46e5-aab6-a34eda3115ab)
-  <p>Skills: Python, MySQL, HTML, CSS, Javascript</p>
+  - 💬 Ask me about **Python | MySQL | HTML | CSS | Javascript | SQL | Power BI | Excel**
+
+  - 📫 How to reach me :
+      - **[rushikeshbhomale@gmail.com](mailto:rushikeshbhomale@gmail.com)**
+      - **[LinkedIn](https://www.linkedin.com/in/rushikesh-bhomale-aa29a3158/)**
+
+    
 </div>
+
+---
+
+<i>**Languages and tools**</i>
+
+![My Skills](https://skillicons.dev/icons?i=html,css,js,github,vscode,mysql,git)
 
 
 
