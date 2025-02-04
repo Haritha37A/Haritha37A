@@ -13,10 +13,20 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
---><h1 align="center">
+-->
+
+<h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
   Hello, I'm Haritha! 👩‍💻
 </h1>
-![](https://github.com/Haritha37A/https://github.com/Haritha37A/Haritha37A/blob/main/89dde2c0-dee9-11ef-bf18-0242ac140003.jpg)
+
+<p>Passionate Data Analyst with a strong ability to transform raw data into meaningful insights. Skilled in data visualization, statistical analysis, and predictive modeling. Proficient in SQL, Python, R, and various BI tools. Experienced in handling large datasets, optimizing workflows, and delivering actionable business intelligence. Constantly exploring new ways to leverage data for impactful decision-making.</p>
+
+
+<!--![](https://github.com/Haritha37A/https://github.com/Haritha37A/Haritha37A/blob/main/89dde2c0-dee9-11ef-bf18-0242ac140003.jpg)-->
+
+![image](https://github.com/user-attachments/assets/40c6bf6b-8073-40f5-a35c-625d1bdb125c)
+<p>Skills: Python, MySQL, HTML, CSS, Javascript</p>
+
 
 
