@@ -1,20 +1,4 @@
 
-
-<!--
-**Haritha37A/Haritha37A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
   Hello, I'm Haritha! 👩‍💻
@@ -25,8 +9,10 @@ Here are some ideas to get you started:
 
 <!--![](https://github.com/Haritha37A/https://github.com/Haritha37A/Haritha37A/blob/main/89dde2c0-dee9-11ef-bf18-0242ac140003.jpg)-->
 
-![image](https://github.com/user-attachments/assets/40c6bf6b-8073-40f5-a35c-625d1bdb125c)
-<p>Skills: Python, MySQL, HTML, CSS, Javascript</p>
+<div>
+  ![image](https://github.com/user-attachments/assets/cdc4d7c1-8d0c-46e5-aab6-a34eda3115ab)
+  <p>Skills: Python, MySQL, HTML, CSS, Javascript</p>
+</div>
 
 
 
