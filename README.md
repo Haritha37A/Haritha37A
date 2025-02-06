@@ -9,7 +9,7 @@
 <div align="left" vertical-align="center">
   
   
-  - 🌱 ** I'm a Data Analyst proficient in Python, MySQL, Power BI, and Excel, turning data into actionable insights** 
+  - 🌱 **I'm a Data Analyst proficient in Python, MySQL, Power BI, and Excel, turning data into actionable insights** 
 
   - 👨‍💻 All of my projects are available at <a href='https://github.com/Haritha37A/' target="_blank" ><b>PortFolio</b></a>
 
@@ -21,6 +21,11 @@
 
     
 </div>
+
+---
+
+<i>**Course Certificates**</i>
+
 
 ---
 
