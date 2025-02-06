@@ -4,7 +4,7 @@
   Hello, I'm Haritha! 👩‍💻
 </h1>
 
-<p>Passionate Data Analyst with a strong ability to transform raw data into meaningful insights. Skilled in data visualization, statistical analysis, and predictive modeling. Proficient in SQL, Python, R, and various BI tools. Experienced in handling large datasets, optimizing workflows, and delivering actionable business intelligence. Constantly exploring new ways to leverage data for impactful decision-making.</p>
+<p>Passionate Data Analyst with a strong ability to transform raw data into meaningful insights. Skilled in data visualization, statistical analysis, and predictive modeling. Proficient in SQL, Python, and various BI tools. Experienced in handling large datasets, optimizing workflows, and delivering actionable business intelligence. Constantly exploring new ways to leverage data for impactful decision-making.</p>
 
 <div align="left" vertical-align="center">
   
