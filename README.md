@@ -9,15 +9,15 @@
 <div align="left" vertical-align="center">
   
   
-  - 🌱 I’m a **Node.js Backend Developer & Aspiring GCP Data Engineer** 
+  - 🌱 ** I'm a Data Analyst proficient in Python, MySQL, Power BI, and Excel, turning data into actionable insights** 
 
   - 👨‍💻 All of my projects are available at <a href='https://github.com/Haritha37A/' target="_blank" ><b>PortFolio</b></a>
 
   - 💬 Ask me about **Python | MySQL | HTML | CSS | Javascript | SQL | Power BI | Excel**
 
   - 📫 How to reach me :
-      - **[rushikeshbhomale@gmail.com](mailto:rushikeshbhomale@gmail.com)**
-      - **[LinkedIn](https://www.linkedin.com/in/rushikesh-bhomale-aa29a3158/)**
+      - **[harithavijjapu37@gmail.com](mailto:harithavijjapu37@gmail.com)**
+      - **[LinkedIn](https://www.linkedin.com/in/haritha-vijjapu-35243a296/)**
 
     
 </div>
