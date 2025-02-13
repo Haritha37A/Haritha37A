@@ -11,20 +11,23 @@
   
   - 🌱 **I'm a Data Analyst proficient in Python, MySQL, Power BI, and Excel, turning data into actionable insights** 
 
-  - 👨‍💻 All of my projects are available at <a href='https://github.com/Haritha37A/' target="_blank" ><b>PortFolio</b></a>
-
+  - 👨‍💻 All of my projects are available 
   - 💬 Ask me about **Python | MySQL | HTML | CSS | Javascript | SQL | Power BI | Excel**
 
   - 📫 How to reach me :
       - **[harithavijjapu37@gmail.com](mailto:harithavijjapu37@gmail.com)**
-      - **[LinkedIn](https://www.linkedin.com/in/haritha-vijjapu-35243a296/)**
+      - **[LinkedIn](https://www.linkedin.com/in/haritha-vijjapu/)**
 
-    
+   
 </div>
 
 ---
 
 <i>**Course Certificates**</i>
+- **[Google Data Aanlytics Certification](https://www.coursera.org/account/accomplishments/verify/J38VXKS8E4KN)**
+-  **[Kaggle Python Certification](https://www.kaggle.com/learn/certification/harithapentapati/python)**
+-  **[JP Morghan Excel ](https://shorturl.at/f2J5V)**
+
 
 
 ---
